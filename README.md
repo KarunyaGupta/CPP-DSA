@@ -13,7 +13,7 @@ Features
 Test cases: Example test cases are provided to demonstrate the usage of each solution.
 README files: Each directory and subdirectory contains a README file with a brief description of the contents.
 #Getting Started
-Clone the repository using git clone https://github.com/your-username/DSA-in-CPP.git
+Clone the repository using git clone https://github.com/KarunyaGupta/CPP-DSA
 Explore the repository structure and navigate to the desired problem or topic.
 Read the README file and solution code to understand the approach and implementation.
 #Contributing
